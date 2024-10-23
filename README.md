@@ -15,7 +15,6 @@
 
 ## Run sh file method
 
-If you want everything about reverse proxy phishing with **Evilginx** - check out my [Evilginx Mastery](https://academy.breakdev.org/evilginx-mastery) course!
 
 
 <p align="center">
@@ -47,10 +46,7 @@ If you want everything about reverse proxy phishing with **Evilginx** - check ou
   <img alt="Screenshot" src="static/6.png" height="300"/>
 </p>
 
-Learn everything about the latest methods of phishing, using reverse proxying to bypass Multi-Factor Authentication. Learn to think like an attacker, during your red team engagements, and become the master of phishing with Evilginx.
 
-Grab it here:
-https://academy.breakdev.org/evilginx-mastery
 
 ## Help
 
