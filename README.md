@@ -8,7 +8,7 @@
 **module_update.sh** script is designed to automate the process of updating Odoo modules efficiently. This script simplifies the management of Odoo modules by allowing users to quickly apply updates without manual intervention.
 
 
-# Ensure the Odoo service is running by executing
+# Ensure Basic configuration should be running (config file and service file)
 <p align="center">
   <img alt="Screenshot" src="static/service.png" height="300" />
 </p>
