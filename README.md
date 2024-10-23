@@ -21,27 +21,27 @@
   <img alt="Screenshot" src="static/1.png" height="300"/>
 </p>
 
-## Run sh file method
+## Make changes is your code
 <p align="center">
   <img alt="Screenshot" src="static/5.png" height="300"/>
 </p>
 
-## Run sh file method
+## Run sh file with service file name and update module like this formate module_update <odoo_service> <module_name>
 <p align="center">
   <img alt="Screenshot" src="static/2.png" height="300"/>
 </p>
 
-## Run sh file method
+## Finally its show like your module is updates
 <p align="center">
   <img alt="Screenshot" src="static/3.png" height="300"/>
 </p>
 
-## Run sh file method
+## Sh file run also like this
 <p align="center">
   <img alt="Screenshot" src="static/4.png" height="300"/>
 </p>
 
-## Run sh file method
+## The module is updated
 <p align="center">
   <img alt="Screenshot" src="static/6.png" height="300"/>
 </p>
