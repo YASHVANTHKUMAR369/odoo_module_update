@@ -1,5 +1,6 @@
 #!/bin/bash
 script_name=$(basename "$0")
+SCRIPT_PATH=$(readlink -f "$0")
 
 # Extract the filename without the extension
 filename="${script_name%.*}"
@@ -8,7 +9,7 @@ if ! grep -q "alias $filename" ~/.bashrc; then
     echo "Adding '$filename' alias to ~/.bashrc"
 
     # Append the alias to ~/.bashrc
-    echo "alias $filename='$script_name'" >> ~/.bashrc
+    echo "alias $filename='$SCRIPT_PATH'" >> ~/.bashrc
 
     # Reload the bashrc file to make the alias immediately available
     source ~/.bashrc

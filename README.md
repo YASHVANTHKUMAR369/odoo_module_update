@@ -3,7 +3,7 @@
 
 </p>
 
-# Odoo module update
+# Odoo module update script
 
 **module_update.sh** script is designed to automate the process of updating Odoo modules efficiently. This script simplifies the management of Odoo modules by allowing users to quickly apply updates without manual intervention.
 
@@ -31,7 +31,7 @@
   <img alt="Screenshot" src="static/2.png" height="300"/>
 </p>
 
-## Finally its show like your module is updates
+## Finally it's show like your module is updates
 <p align="center">
   <img alt="Screenshot" src="static/3.png" height="300"/>
 </p>
