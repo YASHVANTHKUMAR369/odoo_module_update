@@ -31,7 +31,7 @@
   <img alt="Screenshot" src="static/2.png" height="300"/>
 </p>
 
-## Finally it's show like your module is updates
+## Finally it's show like your module is updated
 <p align="center">
   <img alt="Screenshot" src="static/3.png" height="300"/>
 </p>
